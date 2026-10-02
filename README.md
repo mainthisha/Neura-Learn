@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Neura Learn
 
 ### Where Learning Finds Its Way.
@@ -205,9 +204,6 @@ Then open the local URL displayed in the terminal.
 
 [https://neura-learn.onrender.com/](https://neura-learn.onrender.com/)
 
-### Health Check
-
-[https://neura-learn.onrender.com/health](https://neura-learn.onrender.com/health)
 
 ---
 
