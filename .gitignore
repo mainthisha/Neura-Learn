@@ -1,0 +1,14 @@
+node_modules/
+frontend/node_modules/
+backend/.venv/
+backend/__pycache__/
+*.log
+frontend/dist/
+frontend/.output/
+frontend/.vinxi/
+frontend/.tanstack/
+frontend/.nitro/
+backend/.env
+frontend/.env
+.DS_Store
+
