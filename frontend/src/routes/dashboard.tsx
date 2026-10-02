@@ -40,7 +40,7 @@ function Dashboard() {
     <AppShell>
       <PageHeader
         eyebrow="Welcome back"
-        title="Hi Jane 👋"
+        title="Ready to learn? 🚀"
         description="Here's your learning snapshot for today."
         actions={
           <>
